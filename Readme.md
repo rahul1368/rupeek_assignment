@@ -1,5 +1,5 @@
 // Steps to start the project
-After extracting the project please go to rupeek directory.
+//After extracting the project please go to rupeek directory.
 
 1.Then run command npm install , it will install the required modules.
 2. Then type command node index.js , then this will provide the output for Problem 1.
